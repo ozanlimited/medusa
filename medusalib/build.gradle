@@ -54,8 +54,6 @@ task androidSourcesJar(type: Jar) {
     from android.sourceSets.main.java.srcDirs
 }
 
-apply from: "${rootProject.projectDir}/scripts/publish-module.gradle"
-
 afterEvaluate {
     publishing {
         publications {
