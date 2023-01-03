@@ -43,7 +43,7 @@ ext {
     mGroupId = "com.ozanlimited"
     mArtifactId = "medusa"
     mVersionCode = 1
-    mVersionName = "1.0.0"
+    mVersionName = "1.0.3"
 
     mLibraryName = "Medusa"
     mLibraryDescription = ""
